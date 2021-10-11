@@ -586,4 +586,11 @@ footer p{
   textarea{
     padding: 6px;
   }
+  #contacto{
+    margin-left: 1em;  
+  }
+  .redsocialf{
+    margin: 0;
+  }
+
 }
