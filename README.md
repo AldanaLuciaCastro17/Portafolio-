@@ -22,7 +22,7 @@ Mis trabajos realizados a lo largo de Ada
  ![alt text](https://github.com/AldanaLuciaCastro17/Portafolio-/blob/main/Readme/Mis%20proyectos.jpg) 
 ## Contactame :telephone_receiver:
 Formulario para que puedas comunicarte conmigo!
- ![alt text]https://github.com/AldanaLuciaCastro17/Portafolio-/blob/main/Readme/Contactame.jpg) 
+ ![alt text](https://github.com/AldanaLuciaCastro17/Portafolio-/blob/main/Readme/Contactame.jpg)
 ## Footer :feet:
 Por ultimo el pie de pagina 
  ![alt text](https://github.com/AldanaLuciaCastro17/Portafolio-/blob/main/Readme/Footer.jpg) 
