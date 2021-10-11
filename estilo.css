@@ -559,8 +559,16 @@ footer p{
   .formulario{
     width: 100%;
   }
-  
-
-
-
+  .navfooter{
+    display: none;
+  }
+}
+@media (max-width:650px){
+  .hijo {
+    width: calc(100% / 1 - (0.75em * 2));
+  }
+  .parteizquierda ul{
+    display: flex;
+    flex-direction: column;
+  }
 }
