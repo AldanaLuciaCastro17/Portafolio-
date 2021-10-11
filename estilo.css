@@ -571,4 +571,19 @@ footer p{
     display: flex;
     flex-direction: column;
   }
+  .img{
+    width: 300px;
+  }
+  .titulo{
+    font-size: 2.5em;
+  }
+  .misconocimientos p{
+    font-size: 0.98em;
+  }
+  .input{
+    padding: 6px;
+  }
+  textarea{
+    padding: 6px;
+  }
 }
