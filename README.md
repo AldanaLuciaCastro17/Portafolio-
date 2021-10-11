@@ -10,6 +10,7 @@ Proyecto en HTML y CSS - Modulo I de la carrera de desarrollo Front-end en Ada I
 * Sección - Footer
 ## Presentacion :wave:
 Brebe descripción de quien soy
+ ![alt text](https://github.com/AldanaLuciaCastro17/Portafolio-/blob/main/Readme/Presentaci%C3%B3n.jpg) 
 ## Mis conocimientos :fire:
 Herramientas que uso para realizar mis proyectos 
 ## Frase :ok_woman:
